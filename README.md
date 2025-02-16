@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Fahmi-mi
-- 👀 I’m interested in web-development
-- 🌱 I’m currently learning how to developing a web
+- 👀 I’m interested in Artificial Intelligence
+- 🌱 I’m currently learning how to developing a machine learning
 - 📫 How to reach me ig : mi.fhm
 - 😄 Pronouns: he/him
 
